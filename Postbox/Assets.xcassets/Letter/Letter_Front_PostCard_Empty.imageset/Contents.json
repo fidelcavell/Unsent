@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Letter_Front_PostCard_Empty.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Letter_Front_PostCard_Empty 2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Letter_Front_PostCard_Empty 1.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

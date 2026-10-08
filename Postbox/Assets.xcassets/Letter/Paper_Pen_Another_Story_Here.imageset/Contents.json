@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Paper_Pen_Another_Story_Here.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Paper_Pen_Another_Story_Here 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Paper_Pen_Another_Story_Here 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
