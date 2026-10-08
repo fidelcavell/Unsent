@@ -1,6 +1,7 @@
 # Unsent — Collaboration Guide
 
 > This document is for contributors. It covers how to set up the project, where code lives, how to add new features, and the conventions we follow.
+
 > Developer Team : Fidel Cavell, Habil, Theona Arlinton, Valentino Hartanto, M. Rezaldo
 ---
 
